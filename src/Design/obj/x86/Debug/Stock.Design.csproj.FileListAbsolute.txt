@@ -1,0 +1,17 @@
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.csprojResolveAssemblyReference.cache
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.FormMain.resources
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.Forms.Controls.MarketDataForm.resources
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.Forms.Controls.PositionsForm.resources
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.Forms.Functions.FormWait.resources
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.Properties.Resources.resources
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.csproj.GenerateResource.Cache
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\Stock.Design.exe.config
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\Stock.Design.exe
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\Stock.Design.pdb
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\YSQ.core.dll
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\LumenWorks.Framework.IO.dll
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\YSQ.core.pdb
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\bin\x86\Debug\LumenWorks.Framework.IO.xml
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.exe
+C:\Users\kbour_000\Documents\GitHub\stock\Stock.Design\obj\x86\Debug\Stock.Design.pdb

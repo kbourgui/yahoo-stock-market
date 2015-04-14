@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>YahooStockQuotes</id>
+    <version>1.0.6</version>
+    <title>Yahoo Stock Quotes</title>
+    <description>Easily get stock quotes and historical prices from the Yahoo Finance API</description>
+    <authors>Jonathan Christian</authors>
+    <projectUrl>https://github.com/jchristian/yahoo_stock_quotes</projectUrl>
+    <copyright>Copyright 2014</copyright>
+    <tags>finance stock quote</tags>
+    <dependencies>
+      <dependency id="LumenWorksCsvReader" version="3.8.2" />
+    </dependencies>
+  </metadata>
+    <files>
+        <file src="..\src\core\bin\Release\YSQ.core.dll" target="lib" />
+    </files>
+</package>
