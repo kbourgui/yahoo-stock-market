@@ -19,7 +19,7 @@ namespace YSQ.core.Quotes.Response.Processing
         {
             return
                 csv_response_parser.ParseToLines(quote_response.WebResponse)
-                                   .Select(yahooQuote => yahoo_quote_parser.Parse(yahooQuote, quote_response.QuoteRequest.ReturnParameters))
+                                   .Select(yahooQuote => yahoo_quote_parser.Parse(yahooQuote, quote_response.QuoteRequest.ReturnParameters)).Where(yahooQuote => yahooQuote != null)
                                    .ToList();
         }
     }
