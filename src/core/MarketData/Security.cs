@@ -182,7 +182,7 @@ namespace YSQ.core.MarketData
         public string TickerTrend { get; set; }
         [Browsable(false)]
         public string OneyrTargetPrice { get; set; }
-        public long? Volume { get; set; }
+        public string Volume { get; set; }
         [Browsable(false)]
         public string HoldingsValue { get; set; }
         [Browsable(false)]
