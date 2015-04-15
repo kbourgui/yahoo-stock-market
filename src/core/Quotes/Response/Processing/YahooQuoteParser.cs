@@ -9,10 +9,17 @@ namespace YSQ.core.Quotes.Response.Processing
     {
         public dynamic Parse(string quote_data, IEnumerable<QuoteReturnParameter> return_parameters)
         {
-            using (var reader = new CsvReader(new StringReader(quote_data), false))
+             try
             {
-                var parsed_data = Parse(reader);
-                return new YahooQuote(parsed_data.ToList(), return_parameters);
+                using (var reader = new CsvReader(new StringReader(quote_data), false))
+                {
+                    var parsed_data = Parse(reader);
+                    return new YahooQuote(parsed_data.ToList(), return_parameters);
+                }
+            }
+            catch
+            {
+                return null;
             }
         }
 
