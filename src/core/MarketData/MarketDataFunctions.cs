@@ -48,7 +48,8 @@ namespace YSQ.core.MarketData
                     QuoteReturnParameter.LowForTodays,
                     QuoteReturnParameter.TodaysHigh, QuoteReturnParameter.LowLimit, QuoteReturnParameter.HighLimit,
                     QuoteReturnParameter.MarketCap, QuoteReturnParameter.BookValue, QuoteReturnParameter.PriceBook,
-                    QuoteReturnParameter.EBITDA, QuoteReturnParameter.PriceSales, QuoteReturnParameter.ShortRatio)
+                    QuoteReturnParameter.EBITDA, QuoteReturnParameter.PriceSales, QuoteReturnParameter.ShortRatio,
+                    QuoteReturnParameter.Volume)
                     .ToList();
                 listSecurities.AddRange(quotes);
             }
